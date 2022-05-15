@@ -1,0 +1,3 @@
+﻿  MyOpenGL.cpp
+D:\Cherno_OpenGL\Cherno_OpenGL\Lighting\Light Source\FirstOpenGL\FirstOpenGL\src\MyOpenGL.cpp(322,12): warning C4101: 'renderer': unreferenced local variable
+  FirstOpenGL.vcxproj -> D:\Cherno_OpenGL\Cherno_OpenGL\Lighting\Light Source\FirstOpenGL\Debug\FirstOpenGL.exe
